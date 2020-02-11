@@ -1,0 +1,45 @@
+body
+{
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+	margin:auto;
+	background: #edf0ff;
+	color: #3f51b5;
+	width:80%;
+}
+
+a:link 
+{
+  text-decoration: none;
+  font-size: 18px;
+  font-family: Verdana;
+}
+
+a:visited 
+{
+  text-decoration: none;
+  color: tomato;
+}
+
+a:hover, a:active 
+{
+  background-color: beige;
+  cursor:pointer;
+  text-decoration: underline;
+  color:dodgerblue;
+}
+
+img
+{
+	height:250px;
+	width: auto;
+}
+
+ul.list_classes
+{
+	list-style-type: circle;
+}
+
+strong
+{
+	font-style: oblique;
+}
