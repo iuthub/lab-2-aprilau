@@ -43,3 +43,6 @@ strong
 {
 	font-style: oblique;
 }
+
+
+p::first-letter {font-size: 1.5em;}
